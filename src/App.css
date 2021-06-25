@@ -1,0 +1,22 @@
+.profile{
+  display: flex;
+  background-color: rgb(189, 128, 128);
+  height: 500px;
+}
+
+.text{
+  display: block;
+  
+}
+
+.container {
+  padding: 40px;
+  padding-left: 100px;
+}
+
+.content{
+  padding-left: 50px;
+  padding-right: 500px;
+  display: flex;
+}
+
